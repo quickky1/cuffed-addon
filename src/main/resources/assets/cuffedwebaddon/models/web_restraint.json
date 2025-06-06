@@ -1,0 +1,6 @@
+{
+  parent itemgenerated,
+  textures {
+    layer0 cuffedwebaddonitemweb_restraint
+  }
+}
